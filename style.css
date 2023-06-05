@@ -1,0 +1,33 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-size: 60px;
+}
+
+h2{
+    font-size: 40px;
+    background-color: rgb(255, 207, 119);
+}
+
+a {
+    color: black;
+    font-size: 20px;
+}
+.mari{height:200px;
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border:3px solid blue}
+  p{color:black}
+  div{background-color:lightblue}
+  div{background-color: lightblue;}
+  p{font-size:20px}
+  cool{height:200px
+  border=3px solid brown
+  }
+  .cool{border: 3px solid blue;
+  }
